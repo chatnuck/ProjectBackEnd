@@ -1,0 +1,4 @@
+- **User Authentication Module(ALI):**
+    - User registration (sign-up process, input validation)
+    - User login (authentication, session management)
+    - Profile management (profile editing, password reset)
